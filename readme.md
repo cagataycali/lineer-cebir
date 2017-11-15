@@ -14,5 +14,6 @@
 * [6. Hafta](week-6/week-6.pdf)
 * [6. Hafta - Genel Tekrar](week-6/repeat.pdf)
 * [7. Hafta](week-7/week-7.pdf)
+* [8. Hafta - Tekrar](week-8/repeat.pptx)
 
 > Dökümanlar [Meriç ÇETİN](http://pau.edu.tr/mcetin/) tarafından oluşturulmuştur. İzni dahilinde paylaşılmaktadır.
