@@ -15,5 +15,10 @@
 * [6. Hafta - Genel Tekrar](week-6/repeat.pdf)
 * [7. Hafta](week-7/week-7.pdf)
 * [8. Hafta - Tekrar](week-8/repeat.pptx)
+* [9. Hafta](week-9/week-9.pptx)
+* [10. Hafta](week-10/week-10.pptx)
+* [10. Hafta - Genel Tekrar](week-10/GenelTekrar3.pptx)
+* [11. Hafta](week-11/week-11.pptx)
+* [11. Hafta - Gauss Elemination](week-11/gauss.m)
 
 > Dökümanlar [Meriç ÇETİN](http://pau.edu.tr/mcetin/) tarafından oluşturulmuştur. İzni dahilinde paylaşılmaktadır.
