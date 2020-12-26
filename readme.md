@@ -2,7 +2,7 @@
   <img src="logo.png" width="300">
 </div>
 
-**Pamukkale Üniversitesi Bilgisayar Mühendisliği Lineer Cebir Eğitim Dökümanları**
+**Pamukkale Üniversitesi Bilgisayar Mühendisliği Lineer Cebir Eğitim Dokümanları**
 
 *Sunumlar*
 
